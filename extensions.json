@@ -1,0 +1,20 @@
+{
+    "exe": "Executables",
+    "png": "Images",
+    "jpg": "Images",
+    "jpeg": "Images",
+    "zip": "Archives",
+    "rar": "Archives",
+    "mkv": "Videos",
+    "mp4": "Videos",
+    "gif": "Videos",
+    "pdf": "PDFs",
+    "json": "Data",
+    "csv": "Data",
+    "xlsx": "Data",
+    "doc": "Documents",
+    "docx": "Documents",
+    "txt": "Documents",
+    "jar": "Programming",
+    "py": "Programming"
+}
